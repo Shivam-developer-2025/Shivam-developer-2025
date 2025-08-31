@@ -50,13 +50,13 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam-developer-2025&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-developer-2025&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=Shivam-developer-2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -87,8 +87,6 @@ A showcase of my work, skills, and web development journey.
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
-
-<p align="center"><b>📞 Phone:</b> +91 8235727105</p>
 
 ---
 
