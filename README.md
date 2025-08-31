@@ -58,18 +58,17 @@
 </p>
 
 ---
-## 🌐 Social Media  
-
-<p align="left">
+## 🌐 **Social Media**  
+<p align="start">
   <a href="https://www.linkedin.com/in/shivam-kumar-28cse23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp; &nbsp;
+  </a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.instagram.com/the_ighunter/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> &nbsp; &nbsp;
+  </a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.facebook.com/shivam.kumarshah.737">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> &nbsp; &nbsp;
+  </a> &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
