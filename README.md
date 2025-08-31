@@ -17,13 +17,6 @@
   <!-- Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=Shivam-developer-2025&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   &nbsp;&nbsp;
-
-  <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/Shivam-developer-2025?label=👥+Followers&style=for-the-badge&color=00bfff" alt="GitHub followers" />
-  &nbsp;&nbsp;
-
-  <!-- GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/Shivam-developer-2025?label=⭐+Stars&style=for-the-badge&color=ffcc00" alt="GitHub stars" />
 </p>
 ---
 
