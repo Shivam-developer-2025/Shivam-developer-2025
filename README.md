@@ -1,5 +1,9 @@
 <!-- Futuristic GitHub Profile README for Shivam Kumar -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Kumar+👋;Full-Stack+Developer+💻;SEO+Enthusiast+🌐;Open+Source+Contributor+🚀;Always+Learning+%26+Building+✨" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Shivam Kumar  
 
 💻 **Full-Stack Developer** | 🌐 SEO Enthusiast | 🚀 Tech Explorer  
