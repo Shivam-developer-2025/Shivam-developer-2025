@@ -18,7 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Shivam-developer-2025&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   &nbsp;&nbsp;
 </p>
----
 
 ## 🌟 About Me  
 - 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, PHP, MySQL**  
