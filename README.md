@@ -58,12 +58,6 @@
 </p>
 
 ---
-
-## 📂 Featured Project  
-🔗 [My Portfolio](https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar)  
-A showcase of my work, skills, and web development journey.  
-
----
 ## 📫 Connect With Me  
 
 <p align="left">
