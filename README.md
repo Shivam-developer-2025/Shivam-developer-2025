@@ -58,24 +58,23 @@
 </p>
 
 ---
-## 📫 Connect With Me  
+## 🌐 Social Media  
 
 <p align="left">
- 
   <a href="https://www.linkedin.com/in/shivam-kumar-28cse23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5" />
-  </a>  &nbsp; &nbsp;&nbsp; &nbsp;
-  <a href="https://www.instagram.com/the_ighunter/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> &nbsp; &nbsp;&nbsp; &nbsp;
-  <a href="https://www.facebook.com/shivam.kumarshah.737">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> &nbsp; &nbsp;&nbsp; &nbsp;
-  <a href="https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=00F7FF" alt="LinkedIn" />
   </a>
-  
+  <a href="https://www.instagram.com/the_ighunter/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=FF00FF" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/shivam.kumarshah.737">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=00CFFF" alt="Facebook" />
+  </a>
+  <a href="https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white&labelColor=111111&color=FF6FFF" alt="Portfolio" />
+  </a>
 </p>
+
 
 ---
 
