@@ -11,13 +11,6 @@
 
 ---
 
-<!-- 🔥 Futuristic Wavy Background -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave background" />
-</p>
-
----
-
 ## 🌟 About Me  
 - 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, PHP, MySQL**  
 - 🌐 Experienced in **On-Page SEO** & optimization  
@@ -62,13 +55,6 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shivam-developer-2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam-developer-2025/Shivam-developer-2025/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
