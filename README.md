@@ -69,7 +69,7 @@ A showcase of my work, skills, and web development journey.
 
 <p>
   <a href="mailto:kumarshivam7526@gmail.com">
-    📧 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    - 🌐 **Email** <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shivam-kumar-28cse23/">
     💼 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
