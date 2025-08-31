@@ -67,25 +67,26 @@ A showcase of my work, skills, and web development journey.
 
 ## 📫 Connect With Me  
 
-<p>
-  <a href="mailto:kumarshivam7526@gmail.com">
-    - 🌐 **Email** <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-kumar-28cse23/">
-    💼 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/the_ighunter/">
-    📸 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/shivam.kumarshah.737">
-    👥 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar">
-    🌐 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+- 📧 **Email**  
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarshivam7526@gmail.com)  
 
-<p><b>📞 Phone:</b> +91 8235727105</p>
+- 💼 **LinkedIn**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-28cse23/)  
+
+- 📸 **Instagram**  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_ighunter/)  
+
+- 👥 **Facebook**  
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shivam.kumarshah.737)  
+
+- 🌐 **Portfolio**  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar)  
+
+- 📍 **Location**  
+  `Patna, Bihar, India`  
+
+- 📞 **Phone**  
+  `+91 8235727105`  
 
 
 ---
