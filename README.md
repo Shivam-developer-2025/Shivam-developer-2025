@@ -50,11 +50,6 @@
 
 ---
 
-## 🐍 Watch My Contribution Snake  
-![Snake animation](https://github.com/Shivam-developer-2025/Shivam-developer-2025/blob/output/github-contribution-grid-snake.svg)  
-
----
-
 ## 📂 Featured Project  
 🔗 [My Portfolio](https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar)  
 A showcase of my work, skills, and web development journey.  
