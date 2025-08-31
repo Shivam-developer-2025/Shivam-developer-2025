@@ -1,10 +1,10 @@
-<!-- Futuristic GitHub Profile README for Shivam Kumar -->
+<!-- Futuristic Animated GitHub Profile README for Shivam Kumar -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Kumar+👋;Full-Stack+Developer+💻;SEO+Enthusiast+🌐;Open+Source+Contributor+🚀;Always+Learning+%26+Building+✨" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm Shivam Kumar  
+<h1 align="center">Hi there, I'm Shivam Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 💻 **Full-Stack Developer** | 🌐 SEO Enthusiast | 🚀 Tech Explorer  
 📍 From **Patna, Bihar, India**  
@@ -14,10 +14,10 @@
 ## 🌟 About Me  
 - 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, PHP, MySQL**  
 - 🌐 Experienced in **On-Page SEO** & optimization  
-- 🛠️ Proficient with tools: **GitHub, Git, VS Code, Hostinger**  
-- 🤝 Open to collaboration on web development & open-source projects  
-- 📚 Lifelong learner, always exploring modern web trends  
-- ⚡ Focused on building scalable, impactful, and futuristic web apps  
+- 🛠️ Tools I use: **GitHub, Git, VS Code, Hostinger**  
+- 🤝 Open to collaborations on **web development & open source**  
+- 📚 Lifelong learner, exploring **modern web trends**  
+- ⚡ Building scalable, impactful, and futuristic apps  
 
 ---
 
@@ -47,6 +47,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam-developer-2025&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-developer-2025&layout=compact&theme=tokyonight&hide_border=true)  
 ![Streak Stats](https://streak-stats.demolab.com?user=Shivam-developer-2025&theme=tokyonight&hide_border=true)  
+
+---
+
+## 🐍 Watch My Contribution Snake  
+![Snake animation](https://github.com/Shivam-developer-2025/Shivam-developer-2025/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
