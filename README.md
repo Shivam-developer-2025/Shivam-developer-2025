@@ -55,12 +55,7 @@
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />&nbsp; &nbsp;
 </p>
 
----
 
-## 📊 GitHub Stats  
-<p align="start">
-  <img src="https://streak-stats.demolab.com?user=Shivam-developer-2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 ## 🌐 **Social Media**  
