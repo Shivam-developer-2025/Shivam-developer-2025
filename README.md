@@ -77,9 +77,6 @@ Web-based LMS using HTML, CSS & PHP.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivam-developer-2025&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-developer-2025&layout=compact&theme=tokyonight" height="160"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-developer-2025&theme=tokyonight" height="160"/>
 
 </div>
