@@ -79,6 +79,10 @@ Web-based LMS using HTML, CSS & PHP.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-developer-2025&theme=tokyonight" height="160"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-developer-2025&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+
 </div>
 
 ---
@@ -86,7 +90,8 @@ Web-based LMS using HTML, CSS & PHP.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam-developer-2025&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam-developer-2025&theme=matrix&no-bg=true&margin-w=10" />
+
 </p>
 
 ---
