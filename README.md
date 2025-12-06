@@ -1,17 +1,23 @@
-<!-- Futuristic Animated GitHub Profile README for Shivam Kumar -->
+<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Kumar+👋;Full-Stack+Developer+💻;SEO+Enthusiast+🌐;Open+Source+Contributor+🚀;Always+Learning+%26+Building+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Designer;Tech+Enthusiast;Passionate+Coder;Open+Source+Learner" />
 </p>
-
-<h1 align="center">Hi there, I'm Shivam Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-💻 **Full-Stack Developer** | 🌐 SEO Enthusiast | 🚀 Tech Explorer  
-📍 From **Patna, Bihar, India**  
 
 ---
 
-## 👀 Profile Insights  
+## 🚀 About Me
+
+- 🎓 CS Diploma student from **Patna, Bihar**
+- 🌐 Building responsive websites using **HTML, CSS, JavaScript, PHP**
+- 🛠️ Learning **MySQL, React, and full-stack development**
+- 💡 Passionate about **problem-solving, UI/UX, backend logic**
+- 🚀 Looking for **internships & real-world project opportunities**
+
+---
+
+## 👀 Profile Insights
 
 <p align="left">
   <!-- Profile View Counter -->
@@ -19,61 +25,84 @@
   &nbsp;&nbsp;
 </p>
 
-## 🌟 About Me  
-- 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, React.js, Node.js, PHP, MySQL**  
-- 🌐 Experienced in **On-Page SEO** & optimization  
-- 🛠️ Tools I use: **GitHub, Git, VS Code, Hostinger**  
-- 🤝 Open to collaborations on **web development & open source**  
-- 📚 Lifelong learner, exploring **modern web trends**  
-- ⚡ Building scalable, impactful, and futuristic apps  
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2cf5?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Backend**
+
+![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### **Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack  
+## 📌 Projects
 
-- 🌐 **Frontent**
-<p align="start">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp; &nbsp;
-</p>
+Here are a few of my highlighted works:
 
-- 🌐 **Backend & Database**
-<p align="start">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> &nbsp; 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp; &nbsp;
-</p>
+### 🔹 **Portfolio Website**
 
-- 🌐 **Tools**
-<p align="start">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />&nbsp; &nbsp;
-</p>
+A clean personal portfolio built using HTML, CSS & JavaScript.  
+🔗 Live: _Add link here_
 
+### 🔹 **Green Life Website**
 
+Eco-friendly themed website built with modern UI.  
+🔗 Live: _Add link here_
+
+### 🔹 **Library Management System**
+
+Web-based LMS using HTML, CSS & PHP.  
+🔗 Live: _Add link here_
 
 ---
-## 🌐 **Social Media**  
-<p align="start">
-  <a href="https://www.linkedin.com/in/shivam-kumar-28cse23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a href="https://www.instagram.com/the_ighunter/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a href="https://www.facebook.com/shivam.kumarshah.737">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/Shivam-developer-2025/Portfolio-Shivam-Kumar">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivam-developer-2025&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-developer-2025&layout=compact&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-developer-2025&theme=tokyonight" height="160"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam-developer-2025&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
 
-⚡ *“Code. Create. Innovate. Repeat.”*  
+🌐 Connect With Me
+
+<p align="center"> 
+<a href="https://www.linkedin.com/in/shivam-kumar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/shivam-developer-2025" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://instagram.com/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:your-email@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://www.facebook.com/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://wa.me/91XXXXXXXXXX" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="https://t.me/yourusername" target="_blank"> <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p>
+
+## 💬 Quote
+
+> _“Code is like poetry — simple, elegant, and meaningful.”_
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
