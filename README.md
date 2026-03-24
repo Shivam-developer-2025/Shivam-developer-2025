@@ -21,7 +21,7 @@
 
 <p align="left">
   <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Shivam-developer-2025&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shivam-dev105&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   &nbsp;&nbsp;
 </p>
 
@@ -77,9 +77,9 @@ Web-based LMS using HTML, CSS & PHP.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-developer-2025&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-dev105&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-developer-2025&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-dev105&theme=tokyo-night&hide_border=true&area=true" />
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 
@@ -90,7 +90,7 @@ Web-based LMS using HTML, CSS & PHP.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam-developer-2025&theme=matrix&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam-dev105&theme=matrix&no-bg=true&margin-w=10" />
 
 </p>
 
