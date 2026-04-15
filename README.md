@@ -87,15 +87,6 @@ Web-based LMS using HTML, CSS & PHP.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivam-dev105&theme=matrix&no-bg=true&margin-w=10" />
-
-</p>
-
----
-
 🌐 Connect With Me
 
 <p align="center"> 
